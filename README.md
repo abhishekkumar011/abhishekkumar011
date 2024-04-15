@@ -11,7 +11,7 @@ GitHub profile <h1 align="flex-start">Hi 👋, I'm Abhishek Kumar</h1>
 
 - 🤝 I’m looking for help with [Scope Seeker](https://github.com/scopeseeker/scopeseeker-frontend)
 
-- 💬 Ask me about *Full Stack Web Development | MERN Stack | JavaScript | NextJS | ReactJS*
+- 💬 Ask me about *Full Stack Web Development*
 
 - 📫 How to reach me *abhishekkumar0336165@gmail.com*
 
