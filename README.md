@@ -1,5 +1,5 @@
 GitHub profile <h1 align="flex-start">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="flex-start">As a highly motivated and detail-oriented individual, I have always been fascinated by the world of computer science and the endless possibilities that it offers. Pursuing a Bachelor's degree in Computer Science Engineering has given me the opportunity to explore this field in depth and hone my skills in various programming languages and web development frameworks.</h3>
+<h3 align="flex-start">👋 Hey there! I'm Abhishek Kumar, a final-year Computer Science student and enthusiastic full-stack developer. I love crafting clean, efficient code and turning ideas into dynamic web applications. Let's collaborate and create something amazing together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar011&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar011" /> </p>
 
