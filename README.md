@@ -25,6 +25,8 @@ GitHub profile <h1 align="flex-start">Hi 👋, I'm Abhishek Kumar</h1>
 ## Languages and Tools ⚙
 * Programming Languages: JavaScript, TypeScript, Java
 * Frotned Development: HTML, CSS, Chakra UI, Next.js, React.js
+* Backend Development: Node.js, Express.js
+* Database: MongoDB
 * Tools: Git & GitHub
 
 ## GitHub Stats 📊
